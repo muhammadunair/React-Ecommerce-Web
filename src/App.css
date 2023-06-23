@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Navbar css */
+.navbar-nav a {
+  font-size: 18px;
+}
